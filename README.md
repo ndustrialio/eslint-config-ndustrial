@@ -4,17 +4,12 @@ Common eslint configuration for all of ndustrial.io's node applications
 ## Installation
 You can install this module through the regular NPM repository by using the snippet below:
 ```
-npm install --save-dev eslint eslint-config-ndustrial
+npm install --save-dev eslint-config-ndustrial
 ```
 
-or by adding these lines to your `devDependencies` in your `package.json` file.
+or by adding this line to `devDependencies` in your `package.json` file.
 ```
-  "eslint": "^3.8.0",
   "eslint-config-ndustrial": "^1.0.0",
-  "eslint-config-standard": "^7.0.0",
-  "eslint-plugin-import": "^2.2.0",
-  "eslint-plugin-promise": "^3.5.0",
-  "eslint-plugin-standard": "^2.1.0"
 ```
 
 Once that is installed, create an `.eslintrc.json` file in your root directory and add the following line:
