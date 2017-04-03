@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ndustrial",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Common eslint configuration for all of ndustrial.io's node applications",
   "keywords": ["eslint", "eslintconfig"],
   "main": "index.js",
@@ -15,6 +15,13 @@
   },
   "homepage": "https://github.com/ndustrialio/eslint-config-ndustrial#readme",
   "peerDependencies": {
+    "eslint": ">= 3",
+    "eslint-config-standard": ">=7.0.0",
+    "eslint-plugin-import": ">=2.2.0",
+    "eslint-plugin-promise": ">=3.5.0",
+    "eslint-plugin-standard": ">=2.1.1"
+  },
+  "dependencies": {
     "eslint": ">= 3",
     "eslint-config-standard": ">=7.0.0",
     "eslint-plugin-import": ">=2.2.0",
