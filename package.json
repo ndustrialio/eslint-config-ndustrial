@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-ndustrial",
+  "version": "0.0.1",
+  "description": "Common eslint configuration for all of ndustrial.io's node applications",
+  "keywords": ["eslint", "eslintconfig"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndustrialio/eslint-config-ndustrial.git"
+  },
+  "author": "ndustrial.io <dev@ndustrial.io> (ndustrial.io)",
+  "license": "WTFPL (http://www.wtfpl.net/)",
+  "bugs": {
+    "url": "https://github.com/ndustrialio/eslint-config-ndustrial/issues"
+  },
+  "homepage": "https://github.com/ndustrialio/eslint-config-ndustrial#readme",
+  "peerDependencies": {
+    "eslint": ">= 3",
+    "eslint-config-standard": ">=7.0.0",
+    "eslint-plugin-import": ">=2.2.0",
+    "eslint-plugin-promise": ">=3.5.0",
+    "eslint-plugin-standard": ">=2.1.1"
+  }
+}
