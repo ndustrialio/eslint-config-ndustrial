@@ -20,5 +20,12 @@
     "eslint-plugin-import": ">=2.2.0",
     "eslint-plugin-promise": ">=3.5.0",
     "eslint-plugin-standard": ">=2.1.1"
+  },
+  "devDependencies": {
+    "eslint": "~3",
+    "eslint-config-standard": "~7.0.0",
+    "eslint-plugin-import": "~2.0.0",
+    "eslint-plugin-promise": "~3.0.0",
+    "eslint-plugin-standard": "~2.0.0"
   }
 }
