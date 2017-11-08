@@ -1,13 +1,13 @@
 module.exports = {
   "extends": "standard",
   "plugins": [
-      "standard",
-      "promise"
+    "standard",
+    "promise"
   ],
   "rules": {
     "camelcase": 0,
     "new-cap": 0,
-    "one-var": ["error", "always"],
+    "one-var": ["error", "never"],
     "semi": ["error", "always"],
     "space-before-function-paren": 0
   }
