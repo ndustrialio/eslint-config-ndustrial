@@ -1,8 +1,11 @@
 {
   "name": "eslint-config-ndustrial",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Common eslint configuration for all of ndustrial.io's node applications",
-  "keywords": ["eslint", "eslintconfig"],
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
   "main": "index.js",
   "repository": {
     "type": "git",
