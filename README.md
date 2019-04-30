@@ -1,5 +1,5 @@
 # eslint-config-ndustrial
-Common eslint configuration for all of ndustrial.io's node applications
+Common eslint configuration for all of ndustrial.io's JavaScript applications
 
 ## Installation
 You can install this module through the regular NPM repository by using the snippet below:
