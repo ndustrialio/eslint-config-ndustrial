@@ -6,6 +6,7 @@ module.exports = {
   ],
   "rules": {
     "camelcase": 0,
+    "no-console": "error",
     "new-cap": 0,
     "one-var": ["error", "never"],
     "semi": ["error", "always"],
