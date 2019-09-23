@@ -10,6 +10,7 @@ module.exports = {
     "new-cap": 0,
     "one-var": ["error", "never"],
     "semi": ["error", "always"],
-    "space-before-function-paren": 0
+    "space-before-function-paren": 0,
+    "prefer-const": "error"
   }
 };
